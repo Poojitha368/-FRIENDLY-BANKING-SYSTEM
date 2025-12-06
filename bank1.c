@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
+
 #include<string.h>
 #include<conio.h>
 #include"bank1.h"
@@ -117,6 +118,7 @@ int main()
 
 	return 0;
 }
+
 
 
 
