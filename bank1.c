@@ -4,7 +4,6 @@
 #include<string.h>
 #include<conio.h>
 #include"bank1.h"
-
 int main()
 {
 	int choice;
@@ -118,6 +117,7 @@ int main()
 
 	return 0;
 }
+
 
 
 
